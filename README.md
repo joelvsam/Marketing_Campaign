@@ -1,4 +1,4 @@
-# 📊 Marketing Campaign Analytics - Portfolio Showcase Project
+# Marketing Campaign Analytics 
 
 > **A comprehensive data analytics project demonstrating Python, SQL, PostgreSQL, and Power BI skills**
 
@@ -7,25 +7,25 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green.svg)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-19-blue.svg)](https://reactjs.org/)
 
-## 🎯 Project Overview
+## Project Overview
 
 This project analyzes a marketing campaign dataset from Kaggle to derive actionable business insights. It showcases end-to-end data analysis skills including data cleaning, exploratory analysis, SQL querying, database management, and interactive visualization.
 
 **Key Highlights:**
-- 📋 Processed 2,000+ customer records with 29 features
-- 🧠 Implemented K-Means clustering for customer segmentation (RFM analysis)
-- 💾 Designed and populated PostgreSQL database with optimized schema
-- 📊 Created 10+ complex SQL queries for business intelligence
-- 🎨 Built interactive web dashboard with real-time data visualization
-- 📈 Generated Power BI-ready dataset with comprehensive documentation
+- Processed 2,000+ customer records with 29 features
+- Implemented K-Means clustering for customer segmentation (RFM analysis)
+- Designed and populated PostgreSQL database with optimized schema
+- Created 10+ complex SQL queries for business intelligence
+- Built interactive web dashboard with real-time data visualization
+- Generated Power BI-ready dataset with comprehensive documentation
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Screenshot](https://via.placeholder.com/1200x600/667eea/ffffff?text=Marketing+Analytics+Dashboard)
 
 *Interactive dashboard showing KPIs, customer segments, campaign performance, and product analysis*
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Data Processing & Analysis
 - **Python 3.11** - Core programming language
@@ -52,7 +52,7 @@ This project analyzes a marketing campaign dataset from Kaggle to derive actiona
 ### Business Intelligence
 - **Power BI** - Enterprise-grade dashboards (documentation provided)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 marketing-campaign-analytics/
@@ -80,7 +80,7 @@ marketing-campaign-analytics/
     └── package.json                # Node dependencies
 ```
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### Prerequisites
 - Python 3.11+
@@ -157,7 +157,7 @@ npm start
 
 **Dataset Size:** 2,240 customer records
 
-## 🧠 Data Processing Pipeline
+## Data Processing Pipeline
 
 ### Stage 1: Data Cleaning (`01_data_cleaning.py`)
 
@@ -240,7 +240,7 @@ CREATE TABLE marketing_campaigns (
 );
 ```
 
-## 💻 SQL Query Showcase
+## SQL Query Showcase
 
 The project includes 10+ complex SQL queries demonstrating:
 
@@ -304,7 +304,7 @@ GROUP BY recency_category;
 
 **All SQL queries available in:** `scripts/04_sql_queries.sql`
 
-## 🎨 Interactive Dashboard Features
+## Interactive Dashboard Features
 
 ### Key Performance Indicators (KPIs)
 - **Total Customers:** Active customer base size
@@ -331,7 +331,7 @@ GET /api/demographics   - Age/Income analysis
 GET /api/insights       - Business insights
 ```
 
-## 📊 Power BI Integration Guide
+## Power BI Integration Guide
 
 ### Connecting to PostgreSQL
 
@@ -393,7 +393,7 @@ Segment Share =
     )
 ```
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 ### Customer Segmentation
 - **Champions** (25%): Highest CLV, frequent buyers, campaign responsive
@@ -416,7 +416,7 @@ Segment Share =
 - **Web:** 35%, growing channel, mobile optimization needed
 - **Catalog:** 20%, declining, consider phase-out
 
-## 💼 Skills Demonstrated
+## Skills Demonstrated
 
 ### Technical Skills
 - ✅ Data Cleaning & Preprocessing
@@ -437,7 +437,7 @@ Segment Share =
 - ✅ Business Intelligence
 - ✅ Data-Driven Decision Making
 
-## 📝 Documentation
+## Documentation
 
 - **Code Comments:** Comprehensive inline documentation
 - **Docstrings:** Python functions fully documented
@@ -446,7 +446,7 @@ Segment Share =
 - **README:** Complete project overview
 - **User Guide:** In-app documentation page
 
-## 🧠 Challenges & Solutions
+## Challenges & Solutions
 
 ### Challenge 1: Missing Income Data
 **Solution:** Median imputation based on education and age groups
@@ -477,19 +477,7 @@ Segment Share =
 - [React Documentation](https://react.dev/)
 - [Power BI Learning](https://learn.microsoft.com/en-us/power-bi/)
 
-## 📧 Contact
 
-**[Your Name]**
-- LinkedIn: [your-linkedin-profile]
-- Email: [your-email@example.com]
-- GitHub: [github.com/yourusername]
-- Portfolio: [yourportfolio.com]
-
-## 📜 License
-
-This project is for educational and portfolio purposes.
-
-## 🚀 Acknowledgments
 
 - Dataset: Kaggle Marketing Campaign Dataset
 - Inspiration: Real-world marketing analytics challenges

@@ -419,23 +419,23 @@ Segment Share =
 ## Skills Demonstrated
 
 ### Technical Skills
-- ✅ Data Cleaning & Preprocessing
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Statistical Analysis
-- ✅ Machine Learning (Clustering)
-- ✅ SQL Query Optimization
-- ✅ Database Design & Management
-- ✅ API Development (FastAPI)
-- ✅ Frontend Development (React)
-- ✅ Data Visualization
-- ✅ ETL Pipeline Development
+-  Data Cleaning & Preprocessing
+-  Exploratory Data Analysis (EDA)
+-  Statistical Analysis
+-  Machine Learning (Clustering)
+-  SQL Query Optimization
+-  Database Design & Management
+-  API Development (FastAPI)
+-  Frontend Development (React)
+-  Data Visualization
+-  ETL Pipeline Development
 
 ### Business Skills
-- ✅ Customer Segmentation
-- ✅ Campaign Analysis
-- ✅ KPI Definition & Tracking
-- ✅ Business Intelligence
-- ✅ Data-Driven Decision Making
+- Customer Segmentation
+- Campaign Analysis
+- KPI Definition & Tracking
+- Business Intelligence
+- Data-Driven Decision Making
 
 ## Documentation
 
@@ -460,7 +460,7 @@ Segment Share =
 ### Challenge 4: Dashboard Responsiveness
 **Solution:** API-level aggregations, lazy loading, data caching
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - [ ] Predictive modeling (Customer churn prediction)
 - [ ] Time series forecasting (Revenue projection)

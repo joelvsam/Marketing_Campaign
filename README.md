@@ -1,12 +1,5 @@
 # Marketing Campaign Analytics 
 
-> **A comprehensive data analytics project demonstrating Python, SQL, PostgreSQL, and Power BI skills**
-
-[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue.svg)](https://www.postgresql.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green.svg)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-19-blue.svg)](https://reactjs.org/)
-
 ## Project Overview
 
 This project analyzes a marketing campaign dataset from Kaggle to derive actionable business insights. It showcases end-to-end data analysis skills including data cleaning, exploratory analysis, SQL querying, database management, and interactive visualization.

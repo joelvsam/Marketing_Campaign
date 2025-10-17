@@ -469,7 +469,7 @@ Segment Share =
 - [ ] Advanced NLP for customer feedback analysis
 - [ ] Mobile app for on-the-go insights
 
-## 📚 Learning Resources
+## Learning Resources
 
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [PostgreSQL Tutorial](https://www.postgresql.org/docs/)
@@ -483,6 +483,4 @@ Segment Share =
 - Inspiration: Real-world marketing analytics challenges
 - Community: Python, SQL, and React communities
 
----
 
-**Made with ❤️ by [Your Name]** | *Showcasing Data Analytics Excellence*

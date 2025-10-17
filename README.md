@@ -144,7 +144,7 @@ npm start
 - **Dashboard:** http://localhost:3000
 - **API Documentation:** http://localhost:8001/docs
 
-## 📊 Dataset Information
+## Dataset Information
 
 **Source:** Kaggle Marketing Campaign Dataset
 

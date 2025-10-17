@@ -14,9 +14,8 @@ This project analyzes a marketing campaign dataset from Kaggle to derive actiona
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](https://via.placeholder.com/1200x600/667eea/ffffff?text=Marketing+Analytics+Dashboard)
+![Dashboard Screenshot]
 
-*Interactive dashboard showing KPIs, customer segments, campaign performance, and product analysis*
 
 ## Technology Stack
 
